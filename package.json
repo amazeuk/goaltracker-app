@@ -13,6 +13,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "react-scripts": "latest"
+    "react-scripts": "latest",
+    "vite-plugin-pwa": "^1.2.0"
   }
 }
