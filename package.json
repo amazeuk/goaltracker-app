@@ -1,10 +1,11 @@
 {
-  "name": "react",
+  "name": "goaltracker",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "@supabase/supabase-js": "^2.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -13,7 +14,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "react-scripts": "latest",
-    "vite-plugin-pwa": "^1.2.0"
+    "react-scripts": "latest"
   }
 }
